@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610165572372",
+    "project_id": "my-nottyflutterfirst-priject",
+    "storage_bucket": "my-nottyflutterfirst-priject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610165572372:android:c3ff0a9a55d98d0a8af801",
+        "android_client_info": {
+          "package_name": "com.example.firebase_course"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrtkuhcBWGF-DTskkE7xRGHmdsxD4j4Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
